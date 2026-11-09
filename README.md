@@ -41,8 +41,8 @@ Pour valider le comportement en conditions réelles, le framework Frida a été 
 - **Analyse Dynamique :** Frida Core/Server v17.5.1, Android Debug Bridge (ADB) en mode super-utilisateur (`su`).
 - **Système :** Magisk Manager, Flashage de partition AP via Odin3.
 
-## 👥 Équipe de Recherche
-- **Radia EL KADIRI BOUTCHICH** (Filière Sécurité Informatique et Cybersécurité - ENSAO)
+## 👥 Équipe de Recherche  (Filière Sécurité Informatique et Cybersécurité - ENSAO)
+- Radia EL KADIRI BOUTCHICH
 - Ghizlane El Aouni
 - Aicha Daanoun
 - Fadwa Abiza
